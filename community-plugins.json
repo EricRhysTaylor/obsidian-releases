@@ -17286,7 +17286,7 @@
     "id": "radial-timeline",
     "name": "Radial timeline",
     "author": "ericrhystaylor",
-    "description": "A radial timeline for creative fiction writing projects that displays scenes organized by act, subplot, and numeric order for a complete view of the project.",
+    "description": "Visualize longform writing projects as an interactive radial timeline that displays scenes organized by act, subplot, and narrative or chronological order for a complete view of the project.",
     "repo": "ericrhystaylor/Radial-Timeline"
   },
   {

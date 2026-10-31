@@ -17124,7 +17124,7 @@
   {
     "id": "radial-timeline",
     "name": "Radial timeline",
-    "author": "Eric R Taylor",
+    "author": "Radial Timeline LLC",
     "description": "Visualize longform writing projects as an interactive radial timeline that displays scenes organized by act, subplot, and narrative or chronological order for a complete view of the project.",
     "repo": "ericrhystaylor/Radial-Timeline"
   },
@@ -33168,7 +33168,7 @@
   {
     "id": "editorialist",
     "name": "Editorialist",
-    "author": "Eric R Taylor",
+    "author": "Radial Timeline LLC",
     "description": "Import structured editorial feedback from curated human editors, beta readers, or AI, then review editorial suggestions across manuscript scenes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ericrhystaylor/Editorialist"
   },
